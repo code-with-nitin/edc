@@ -1,2 +1,0 @@
-# edc
-Creating eDC website
